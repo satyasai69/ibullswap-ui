@@ -1,8 +1,8 @@
-# 🥞 Pancake Frontend
+# ibullswap Frontend
 
 <p align="center">
-  <a href="https://pancakeswap.finance">
-      <img src="https://pancakeswap.finance/logo.png" height="128">
+  <a href="">
+      <img src="" height="128">
   </a>
 </p>
 
@@ -43,58 +43,10 @@ pnpm build
 pnpm start
 ```
 
-</details>
 
-## `apps/aptos`
 
-<details>
-<summary>
-How to start
-</summary>
 
-```sh
-pnpm dev:aptos
-```
 
-```sh
-pnpm build:aptos
-```
-
-</details>
-
-## `apps/blog`
-
-<details>
-<summary>
-How to start
-</summary>
-
-```sh
-pnpm dev:blog
-```
-
-```sh
-pnpm build:blog
-```
-
-</details>
-
-## `apps/games`
-
-<details>
-<summary>
-How to start
-</summary>
-
-```sh
-pnpm dev:games
-```
-
-```sh
-pnpm build:games
-```
-
-</details>
 
 ## Packages
 
